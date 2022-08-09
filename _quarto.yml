@@ -24,14 +24,14 @@ website:
   open-graph: true
   reader-mode: true
   repo-branch: main
-  repo-url: "https://github.com/seanshahkarami/https://github.com/seanshahkarami/sage-data-client-nbdev/"
+  repo-url: "https://github.com/seanshahkarami/sage-data-client-nbdev/"
   repo-actions: [issue]
   navbar:
     background: primary
     search: true
     right:
       - icon: github
-        href: "https://github.com/seanshahkarami/https://github.com/seanshahkarami/sage-data-client-nbdev/"
+        href: "https://github.com/seanshahkarami/sage-data-client-nbdev/"
   sidebar:
     style: "floating"
 
