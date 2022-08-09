@@ -32,6 +32,5 @@ d = { 'settings': { 'allowed_cell_metadata_keys': '',
                 'tst_flags': 'notest',
                 'user': 'seanshahkarami',
                 'version': '0.0.1'},
-  'syms': { 'sage_data_client_nbdev.core': { 'sage_data_client_nbdev.core.foo': 'https://seanshahkarami.github.io/sage_data_client_nbdev/core.html#foo',
-                                             'sage_data_client_nbdev.core.load': 'https://seanshahkarami.github.io/sage_data_client_nbdev/core.html#load',
+  'syms': { 'sage_data_client_nbdev.core': { 'sage_data_client_nbdev.core.load': 'https://seanshahkarami.github.io/sage_data_client_nbdev/core.html#load',
                                              'sage_data_client_nbdev.core.query': 'https://seanshahkarami.github.io/sage_data_client_nbdev/core.html#query'}}}
